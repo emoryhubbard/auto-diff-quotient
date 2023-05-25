@@ -12,3 +12,7 @@ Edit a bookmark's url, replacing it with this code:
 
 The code in the repo just shows how this line of code works and was developed.
 
+My opinion is that is better to use a numerical tool to check answers when studying mathematics, because you will be unable to find your mistakes and check your answers on your own, both on exams and personally, if you rely on CAS. You have to do your own "debugging" if you want to develp the ability to solve problems on your own.
+
+This method can be done manually, it is just tedious, unlike CAS applications like Wolfram Alpha. Automated graphing and arithmetic likewise aren't anything you can't do on your own with time and effort. My recommendation is to avoid any system stunts your ability to do algebra and higher mathematics during your studies, but embrace them for higher research.
+
